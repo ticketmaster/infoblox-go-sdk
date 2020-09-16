@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/tickemaster/infoblox-go-sdk/model"
+	"github.com/ticketmaster/infoblox-go-sdk/model"
 )
 
 // RecordA stores all methods and objects related to record:a.

@@ -3,7 +3,7 @@ package client
 import (
 	"fmt"
 
-	"github.com/tickemaster/infoblox-go-sdk/model"
+	"github.com/ticketmaster/infoblox-go-sdk/model"
 )
 
 // Range stores all methods and objects related to range.

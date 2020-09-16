@@ -4,8 +4,8 @@ import (
 	"log"
 	"testing"
 
-	"github.com/tickemaster/infoblox-go-sdk/client"
-	"github.com/tickemaster/infoblox-go-sdk/model"
+	"github.com/ticketmaster/infoblox-go-sdk/client"
+	"github.com/ticketmaster/infoblox-go-sdk/model"
 )
 
 func TestCreateRecordA(t *testing.T) {

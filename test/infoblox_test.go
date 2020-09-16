@@ -4,8 +4,8 @@ import (
 	"log"
 	"testing"
 
-	"github.com/tickemaster/infoblox-go-sdk"
-	"github.com/tickemaster/infoblox-go-sdk/client"
+	"github.com/ticketmaster/infoblox-go-sdk"
+	"github.com/ticketmaster/infoblox-go-sdk/client"
 )
 
 func TestInfobloxFetch(t *testing.T) {

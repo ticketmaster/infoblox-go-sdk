@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/tickemaster/infoblox-go-sdk/client"
-	"github.com/tickemaster/infoblox-go-sdk/model"
+	"github.com/ticketmaster/infoblox-go-sdk/client"
+	"github.com/ticketmaster/infoblox-go-sdk/model"
 )
 
 // Infoblox is a helper that includes all the clients.

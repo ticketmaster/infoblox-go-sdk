@@ -1,4 +1,4 @@
-module github.com/tickemaster/infoblox-go-sdk
+module github.com/ticketmaster/infoblox-go-sdk
 
 go 1.14
 

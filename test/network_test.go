@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	"github.com/tickemaster/infoblox-go-sdk/client"
+	"github.com/ticketmaster/infoblox-go-sdk/client"
 )
 
 func TestFetchByNetwork(t *testing.T) {

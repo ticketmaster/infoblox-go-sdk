@@ -4,7 +4,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/tickemaster/infoblox-go-sdk/client"
+	"github.com/ticketmaster/infoblox-go-sdk/client"
 )
 
 func TestCreateSession(t *testing.T) {
